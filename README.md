@@ -1,4 +1,4 @@
-This project involves the analysis of a dataset from Swiggy, a popular food delivery platform in India. The dataset contains information about 8,680 restaurants across multiple Indian cities. It includes details such as restaurant names, locations, pricing, customer ratings, food types, and delivery times.
+This project involves the analysis of a Kragel open-source dataset of Swiggy, a popular food delivery platform in India. The dataset contains information about 8,680 restaurants across multiple Indian cities. It includes details such as restaurant names, locations, pricing, customer ratings, food types, and delivery times.
 
 Key aspects of the project include:
 
